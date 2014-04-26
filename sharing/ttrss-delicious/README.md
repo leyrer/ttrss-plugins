@@ -1,21 +1,21 @@
 # ttrss-delicious
 
-Tiny Tiny RSS Plugin to send article-links to delicious, using their bookmarklet. Tested with TT-RSS v1.12 and postgresql.
+Tiny Tiny RSS Plugin to send article-links to delicious, using their bookmarklet.
 
 ## Installation
 * Goto your plugins directory and clone this git repository with following command:  
 `git clone https://github.com/usr42/ttrss-sendtokindle delicious`  
 OR
-* Download this repository as zip: https://github.com/usr42/ttrss-sendtokindle/archive/master.zip and unzip it into your plugin directory and rename the folder to 'kindle'
+* Download this repository as zip: https://github.com/leyrer/ttrss-plugins/archive/master.zip, unzip it, and move the "delicious" directory into your Tiny Tiny RSS plugin folder.
 * Go to your tt-rss Preference page
 * Under Plugins section enable the "delicious" plugin
 
 ## Usage
-* Click on the delicous symbol ![Kindle Symbol] (http://i42.tinypic.com/vimiaf.png Kindle Symbol) to send the actual article to your delicious account  
+* Click on the delicous symbol ![Delicious Symbol] (https://raw.githubusercontent.com/leyrer/ttrss-plugins/master/sharing/ttrss-delicious/delicious.png Delicious Symbol) to send the actual article to your delicious account  
 
 ## Version history
 ### version 1.0 - 2014-04-26
-* First version: working with TT-RSS v1.12
+* First version: Works with TT-RSS v1.12 and postgresql (MySQL should work but untested)
 
 ## Logo Authorship
 The copyright of the artwork of the icon is not claimed in any possible way by me.
