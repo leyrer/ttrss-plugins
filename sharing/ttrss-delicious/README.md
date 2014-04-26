@@ -1,6 +1,6 @@
 # ttrss-delicious
 
-Tiny Tiny RSS Plugin to send article-links to delicious, using their bookmarklet.
+Tiny Tiny RSS Plugin to send article-links to Delicious, using the Delicious javascript bookmarklet.
 
 ## Installation
 * Goto your plugins directory and clone this git repository with following command:  
@@ -13,6 +13,7 @@ OR
 
 ## Usage
 * Click on the Delicous symbol ![Delicious Symbol](https://raw.githubusercontent.com/leyrer/ttrss-plugins/master/sharing/ttrss-delicious/delicious.png "Delicious Symbol") to send the actual article to your delicious account  
+* You have to be logged into Delicious in the currrent browser session, in order for the plugin to work.
 
 ## Version history
 ### version 1.0 - 2014-04-26
@@ -29,5 +30,4 @@ This project is licensed under the GNU GPL license version 3 (or newer). For a t
 ## Thanks to
 * Andrew Dolgov for the initial plugins this is based on https://github.com/gothfox/Tiny-Tiny-RSS-Contrib
 * Andrew Dolgov for Tiny Tiny RSS http://tt-rss.org/
-
 
