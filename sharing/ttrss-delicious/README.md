@@ -4,14 +4,15 @@ Tiny Tiny RSS Plugin to send article-links to delicious, using their bookmarklet
 
 ## Installation
 * Goto your plugins directory and clone this git repository with following command:  
-`git clone https://github.com/usr42/ttrss-sendtokindle delicious`  
+`git clone https://github.com/leyrer/ttrss-plugins.git ttrss-plugins`  
 OR
-* Download this repository as zip: https://github.com/leyrer/ttrss-plugins/archive/master.zip, unzip it, and move the "delicious" directory into your Tiny Tiny RSS plugin folder.
+* Download this repository as zip: https://github.com/leyrer/ttrss-plugins/archive/master.zip and unzip it to a temporary folder
+* Move the "delicious" directory into your Tiny Tiny RSS plugin folder.
 * Go to your tt-rss Preference page
-* Under Plugins section enable the "delicious" plugin
+* Under the "Plugins" section enable the "delicious" plugin
 
 ## Usage
-* Click on the delicous symbol ![Delicious Symbol] (https://raw.githubusercontent.com/leyrer/ttrss-plugins/master/sharing/ttrss-delicious/delicious.png Delicious Symbol) to send the actual article to your delicious account  
+* Click on the Delicous symbol ![Delicious Symbol](https://raw.githubusercontent.com/leyrer/ttrss-plugins/master/sharing/ttrss-delicious/delicious.png "Delicious Symbol") to send the actual article to your delicious account  
 
 ## Version history
 ### version 1.0 - 2014-04-26
